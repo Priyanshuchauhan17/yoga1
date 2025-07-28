@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id optio nesciunt corporis .",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id optio nesciunt corporis .",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id optio nesciunt corporis .",
   },
 ];
 
@@ -131,18 +131,14 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat minima esse,
+                cum nesciunt expedita inventore voluptas facilis officiis quos impedit deserunt
+                numquam repellendus aperiam fuga unde explicabo sed eos quas!
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat minima esse,
+                cum nesciunt expedita inventore voluptas facilis officiis quos impedit deserunt
+                numquam repellendus aperiam fuga unde explicabo sed eos quas!
               </p>
             </motion.div>
 

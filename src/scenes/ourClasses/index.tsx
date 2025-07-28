@@ -68,10 +68,10 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
+              consequuntur culpa illum necessitatibus blanditiis ipsum commodi ducimus
+              nulla eligendi accusantium dignissimos quia quisquam obcaecati porro velit,
+              nobis consequatur voluptatem nemo.
             </p>
           </div>
         </motion.div>
